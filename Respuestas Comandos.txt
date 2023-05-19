@@ -1,0 +1,41 @@
+Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
+
+git status: Este comando se usa para obtener el estado actual del repositorio
+
+git clone: principalmente para apuntar a un repositorio existente y clonar o copiar dicho repositorio en un nuevo directorio
+
+git pull: Este comando extrae y descarga contenido desde un repositorio remoto y asi actualizarlo al instante
+
+git checkout: Comando que permite extraer una copia de trabajo, ya sea un commit,una etiqueta,un branch. desplazamiento entre ramas
+
+git log: Comando para explorar el historial del repositorio
+
+git branch: Comando que permite crear,listar o eliminar ramas, asi como cambiar su nombre.
+
+git add: Comando que añade un cambio del direcctorio de trabajo en el entorno.
+
+git commit: Comando que captura una instantanea de los cambios preparados en el proyecto en ese momento.
+
+git push: Comando para cargar contenido de un repositorio local a uno remoto
+
+git merge: Comando para fusionar una o mas ramas dentro de la rama que esta activa.Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
+
+git status: Este comando se usa para obtener el estado actual del repositorio
+
+git clone: principalmente para apuntar a un repositorio existente y clonar o copiar dicho repositorio en un nuevo directorio
+
+git pull: Este comando extrae y descarga contenido desde un repositorio remoto y asi actualizarlo al instante
+
+git checkout: Comando que permite extraer una copia de trabajo, ya sea un commit,una etiqueta,un branch. desplazamiento entre ramas
+
+git log: Comando para explorar el historial del repositorio
+
+git branch: Comando que permite crear,listar o eliminar ramas, asi como cambiar su nombre.
+
+git add: Comando que añade un cambio del direcctorio de trabajo en el entorno.
+
+git commit: Comando que captura una instantanea de los cambios preparados en el proyecto en ese momento.
+
+git push: Comando para cargar contenido de un repositorio local a uno remoto
+
+git merge: Comando para fusionar una o mas ramas dentro de la rama que esta activa.
