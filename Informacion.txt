@@ -1,0 +1,3 @@
+Se realizan cambios generados de la practica GIT.
+Se soluciona inconveniente de subida a repositorio remoto en clase 18-05
+Se aclaran dudas y se procede a realizar con exito.
